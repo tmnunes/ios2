@@ -1,0 +1,13 @@
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/obj/iPhoneSimulator/Debug/optimized/FlashButton.png
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/obj/iPhoneSimulator/Debug/optimized/NoFlashButton.png
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/obj/iPhoneSimulator/Debug/optimized/TakePhotoButton.png
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/obj/iPhoneSimulator/Debug/optimized/ToggleCameraButton.png
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/obj/iPhoneSimulator/Debug/optimized/
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/bin/iPhoneSimulator/Debug/Camera.exe.mdb
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/bin/iPhoneSimulator/Debug/Camera.exe
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/obj/iPhoneSimulator/Debug/Camera.exe
+/Users/tiagonunes/Documents/Projects/ios/avfoundation-camera/1. Start/obj/iPhoneSimulator/Debug/Camera.exe.mdb

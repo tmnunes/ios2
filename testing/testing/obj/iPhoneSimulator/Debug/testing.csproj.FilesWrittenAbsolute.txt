@@ -1,0 +1,9 @@
+/Users/tiagonunes/Documents/Projects/testing/testing/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/tiagonunes/Documents/Projects/testing/testing/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/tiagonunes/Documents/Projects/testing/testing/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/tiagonunes/Documents/Projects/testing/testing/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/tiagonunes/Documents/Projects/testing/testing/obj/iPhoneSimulator/Debug/optimized/
+/Users/tiagonunes/Documents/Projects/testing/testing/bin/iPhoneSimulator/Debug/testing.exe.mdb
+/Users/tiagonunes/Documents/Projects/testing/testing/bin/iPhoneSimulator/Debug/testing.exe
+/Users/tiagonunes/Documents/Projects/testing/testing/obj/iPhoneSimulator/Debug/testing.exe
+/Users/tiagonunes/Documents/Projects/testing/testing/obj/iPhoneSimulator/Debug/testing.exe.mdb

@@ -1,0 +1,15 @@
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/optimized/Default-568h@2x.png
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/optimized/Default@2x.png
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/optimized/Default.png
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/optimized/Default-Portrait.png
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/optimized/Default-Portrait@2x.png
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/optimized/Default-Landscape@2x.png
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.exe.mdb
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.exe
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.exe
+/Users/tiagonunes/Documents/Projects/ios/Hello_iOS/Hello.iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.exe.mdb
